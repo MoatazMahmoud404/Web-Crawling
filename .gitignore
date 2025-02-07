@@ -1,2 +1,6 @@
 venv
-Results
+# Results
+src/__pycache__/config.cpython-311.pyc
+src/__pycache__/scraper.cpython-311.pyc
+src/__pycache__/
+*.pyc
