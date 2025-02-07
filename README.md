@@ -78,7 +78,7 @@ The scraper is highly configurable through the `ScraperConfig` class. Key settin
 ## Project Structure
 
 ```
-amazon-scraper/
+Web-Crawling/
 ├── src/
 │   ├── __init__.py
 │   ├── config.py      # Configuration settings
