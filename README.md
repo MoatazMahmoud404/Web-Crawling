@@ -130,7 +130,7 @@ The scraper creates a timestamped output directory containing:
 ⚙️ PERFORMANCE SETTINGS:
 --------------------------------------------------------------------------------
 🔄 Max Retries: 3
-⏱️  Retry Delay: 5 seconds
+⏱️ Retry Delay: 5 seconds
 🚦 Requests Per Second: 2
 🔀 Max Concurrent Requests: 5
 💾 Cache TTL: 3600 seconds
@@ -160,12 +160,12 @@ The scraper creates a timestamped output directory containing:
 
 💾 OUTPUT FILES:
 --------------------------------------------------------------------------------
-📊 JSON Output: amazon_scrape_2025-02-07_12-47\amazon_products.json
-📑 CSV Output: amazon_scrape_2025-02-07_12-47\amazon_products.csv
-🗄️  Database: amazon_scrape_2025-02-07_12-47\amazon_products.db
-📝 Log File: amazon_scrape_2025-02-07_12-47\scraper.log
-🔗 Links File: amazon_scrape_2025-02-07_12-47\extracted_links.json
-🖼️  Media File: amazon_scrape_2025-02-07_12-47\extracted_media.json
+📊 JSON Output:  amazon_scrape_2025-02-07_12-47\amazon_products.json
+📑 CSV Output:   amazon_scrape_2025-02-07_12-47\amazon_products.csv
+🗄️ Database:     amazon_scrape_2025-02-07_12-47\amazon_products.db
+📝 Log File:     amazon_scrape_2025-02-07_12-47\scraper.log
+🔗 Links File:   amazon_scrape_2025-02-07_12-47\extracted_links.json
+🖼️ Media File:   amazon_scrape_2025-02-07_12-47\extracted_media.json
 📊 Metrics File: amazon_scrape_2025-02-07_12-47\metrics.json
 
 🎯 TARGET KEYWORDS:
