@@ -28,7 +28,7 @@ A high-performance, feature-rich web scraper for Amazon products built with Pyth
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Moataz404Mahmoud/Web-Crawling.git
+git clone https://github.com/MoatazMahmoud404/Web-Crawling.git
 cd Web-Crawling
 ```
 
