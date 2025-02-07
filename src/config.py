@@ -17,7 +17,7 @@ class ScraperConfig:
         # File download features
         self.enable_file_downloads: bool = True
         self.timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M")
-        self.downloads_path: str = f"./Result/amazon_scrape_{self.timestamp}/downloads"
+        self.downloads_path: str = f"./Results/amazon_scrape_{self.timestamp}/downloads"
         self.wait_for_downloads: int = 10
         # Link and media features
         self.exclude_external_links: bool = True

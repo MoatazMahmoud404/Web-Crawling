@@ -22,7 +22,7 @@ class AmazonScraper:
     def __init__(self, config: ScraperConfig):
         self.config = config
         self.timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M")
-        self.output_folder = f"Result/amazon_scrape_{self.timestamp}"
+        self.output_folder = f"Results/amazon_scrape_{self.timestamp}"
         self.setup_directories()
         self.setup_files()
         self.setup_logging()
